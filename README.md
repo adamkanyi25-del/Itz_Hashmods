@@ -127,4 +127,3 @@ I'm **Hash**, and I'm just getting started. There's plenty more coming, includin
 ## 🦍 See you around!
 
 **— Itz_Hash**
-and join my discord for more:https://discord.gg/V8qUdNEbR
