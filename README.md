@@ -1,5 +1,3 @@
-Absolutely — here’s a longer, cleaner GitHub README focused specifically on **Gorilla Tag fan-game modding** and your upcoming **i dev menu**.
-
 # 👋 Hey There!
 
 ## 🦍 Welcome to Itz_Hash's GitHub!
